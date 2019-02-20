@@ -3,7 +3,7 @@
 Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@OSylla92](https://github.com/OSylla92)
 
 ## Video :
-[![video](https://img.youtube.com/vi/u3gDtswal8/0.jpg)](https://www.youtube.com/watch?v=u3gDtswal8)
+[![video](https://img.youtube.com/vi/u3gDtswal8w/0.jpg)](https://www.youtube.com/watch?v=u3gDtswal8w)
 
 
 ## **Bibliothéque utilisée**
@@ -19,7 +19,7 @@ Ce projet à été réalisé par [@siham](https://github.com/siham87) et [@OSyll
 
 ## **Montage**
 
-![schema : ](trash-IoT-fritzing.jpg)
+![schema : ](trash-IoT-fritzing.png)
 
 ## **Code**
 
